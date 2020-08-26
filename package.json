@@ -1,0 +1,11 @@
+{
+  "name": "npm7-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "Nicholas Ochoa",
+  "license": "ISC"
+}
