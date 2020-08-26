@@ -1,12 +1,8 @@
 {
   "name": "@nicholas-ochoa/npm7-issue-test-pkg",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "test package",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "ssh://git@github.com:nicholas-ochoa/npm7-issue-test-pkg.git"
-  },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
